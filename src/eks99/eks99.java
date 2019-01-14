@@ -5,7 +5,7 @@ public class eks99 {
 		// 주석
 		int	i=1;
 		while(i < 10) {
-			System.out.println(9*i);
+			System.out.println(2*i);
 			i=i+1;
 		}
 		
